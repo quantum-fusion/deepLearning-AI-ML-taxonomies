@@ -8,3 +8,6 @@ https://bit.ly/3vwtcFf
 
 Visual introduction of Deep Learning book 45 pages 
 https://bit.ly/36X7ekA
+
+Advanced algorithm types 
+https://bit.ly/3C5SsDz
